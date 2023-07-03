@@ -3,7 +3,7 @@ Um bot simples para discord
 
 ## Rodar Projeto
 
-Windows:
+# Windows:
 Baixe o source code do projeto e abra o cmd aonde a pasta está usando cd e use esse comando:
 ```bash
   npm install
@@ -14,7 +14,7 @@ depois para iniciar:
   node index.js
 ```
 
-Linux:
+# Linux:
 Clone este projeto com o comando:
 ```bash
   git clone https://github.com/OreczXOfficial/ticket_bot.git
