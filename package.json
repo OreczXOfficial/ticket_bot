@@ -1,5 +1,5 @@
 {
-  "name": "ticket-bot-decx",
+  "name": "ticket-bot",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,7 +9,7 @@
     "dev": "nodemon index.js"
   },
   "keywords": [],
-  "author": "ArthurC",
+  "author": "OreczX",
   "license": "ISC",
   "dependencies": {
     "discord.js": "^14.0.3",
